@@ -1,4 +1,4 @@
-$('.swipeboxExampleImg').swipebox();
+$('.swipebox').swipebox();
 
 $('#mygallery').justifiedGallery({
     lastRow : 'nojustify',
